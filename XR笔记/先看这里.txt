@@ -1,0 +1,9 @@
+注意：
+1.Unity基础知识 请移步唐老狮的unity四部曲
+	     有些涉及unity中的InputSystem
+	     但不影响XR组件的使用（unity提供了自带了配置文件）
+2.本教程只提供 VR大致纲要 与 提供部分学习资源地址
+3.如有 更好的教程 与 小物件的制作 可以提供相应的网址
+4.oculus（白色的）应用网址（需要魔法）：	https://www.meta.com/zhcn/help/quest/articles/headsets-and-accessories/oculus-rift-s/install-app-for-link/
+5.vive（黑色的）去Steam下载steamVR
+           
